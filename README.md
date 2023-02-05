@@ -7,7 +7,7 @@
         <tr>
             <td>
             <center>
-            <a href="https://mrhoony.github.io/posts/LiliumE00/" target="_blank"><img src="https://user-images.githubusercontent.com/52897037/216818898-60256cf4-3ebd-409a-b632-bedd78e28697.png" alt="Introduce Lilium"></a>
+            <a href="https://mrhoony.github.io/posts/LiliumE00/" target='_blank'><img src="https://user-images.githubusercontent.com/52897037/216818898-60256cf4-3ebd-409a-b632-bedd78e28697.png" alt="Introduce Lilium"></a>
             </center>
             </td>
         </tr>
